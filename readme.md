@@ -6,4 +6,4 @@ Il permet aussi de modifier ce code avec l'aval de l'hôte.
 ## Comment faire?
 
 Dans Github, il faut se rendre sur le répertoire à cloner et cliquer sur le bouton vert.
-!(./clone/images/img_0097.jpg)
+!(https://github.com/femknight/clone/blob/main/images/IMG_0097.jpg)
