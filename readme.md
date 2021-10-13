@@ -25,3 +25,4 @@ le git init, permet d'initialiser un dossier en dépot git, et nous permet donc 
 
 refaire cette commande permet de ré-initialiser le dépot comme a la premiere éxécution de la commandes, il est parfois necessaires de suprimer le dossier .git pour que tout fonctionne
 
+[Accueil](https://failyriece.github.io/DWWM19/)
